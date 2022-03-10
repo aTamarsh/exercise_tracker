@@ -1,0 +1,78 @@
+body {
+  font-family: Georgia, serif;
+  background-color:lightsteelblue;
+  color:rgb(0, 0, 0);
+  margin:1%;
+  padding:1%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.img-container{
+  text-align: center;
+}
+
+button {
+  font-family: Georgia, serif;
+  background-color: lightblue;
+  color:rgb(3, 3, 3);
+  margin:1%;
+  padding:10px; 
+}
+
+caption {
+  font-family: Georgia, serif;
+  font-size:40px;
+  background-color: lightblue;
+  color:rgb(3, 3, 3);
+  margin:1%;
+  padding:10px; 
+  border: 1px solid #ddd;
+}
+
+fieldset, legend, label, input {
+  font-family: Georgia, serif;
+  background-color: rgb(255, 255, 255);
+  color:darkslategray;
+  margin:1%;
+  padding:10px;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: darkslategray;
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+}
