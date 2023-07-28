@@ -1,4 +1,8 @@
-This Exercise Tracker Web App was built using the **MERN** stack as a Single Page Application.
+![FitHub](https://i.imgur.com/BZSU6DB.png)
+
+# FitHub
+
+FitHub is an Exercise Tracker Web App was built using the **MERN** stack as a Single Page Application.
 The web app tracks exercises completed by the user.
 
 I used React for the front-end UI portion of the app. 
